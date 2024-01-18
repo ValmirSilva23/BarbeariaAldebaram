@@ -247,7 +247,7 @@ i {
 .haircut img {
   width: 100%;
   max-width: 354px;
-  transition: trasform(0.2s);
+  transition: trasform(0.3s);
 }
 
 .haircut img:hover {
