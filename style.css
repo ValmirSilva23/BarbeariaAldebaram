@@ -157,7 +157,7 @@ i {
     font-size: 14px;
   }
 }
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 768px) {
   .hero h1 {
     font-size: 24px;
   }
@@ -221,7 +221,7 @@ i {
   max-width: 780px;
 }
 
-@media screen and (max-width: 968px) {
+@media screen and (max-width: 1200px) {
   .services-content {
     flex-direction: column;
   }
